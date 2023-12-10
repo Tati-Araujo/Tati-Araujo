@@ -1,7 +1,9 @@
 <h1 align="center">Olá 👋, sou Tatiana Araujo</h1>
 <h3 align="center">Da biologia a tecnologia</h3>
 <h3 align="center">Transição de carreira</h3>
-
+        
+      
+  
 ##
 <h3 align="left">Conectar comigo:</h3>
 <p align="left">
@@ -18,3 +20,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tati-Araujo&show_icons=true&theme=cobalt)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tati-Araujo&repo=github-readme-stats)](https://github.com/Tati-Araujo/github-readme-stats)
+
+##
