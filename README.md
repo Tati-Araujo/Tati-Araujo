@@ -8,6 +8,7 @@
 <a href="https://linkedin.com/in/linkedin.com/in/tatiana-araujo-24a65623a" target="blank"><img alinhar = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt = "linkedin .com/in/tatiana-araujo-24a65623a" height="20" width="30" /></a>
 </p>
 
+
 ##
 
 - Estudando Analise de Desenvolvimento
